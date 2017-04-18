@@ -1,0 +1,44 @@
+Answer Phones Ia:  Aziz Answer Phones Ib:  Collins
+Answer Phones IIa:  Davis Answer Phones IIb:  Ericson
+Answer Phones IIIa:  Fitzgerald Answer Phones IIIb:  Gutierrez
+Answer Phones IVa:  Hughes Answer Phones IVb:  Jones
+Computer Repair I: Vieira
+Computer Repair II: Kelly
+Computer Repair III: Martinez
+Computer Repair IV: Patel
+Network I:  Liu
+Network II:  Singh
+Network III:  Tortorella
+Network IV:  Zimmerman
+[Aziz Answer Phones]
+[Blumenthal Computer Repair, Network]
+[Collins Answer Phones, Computer Repair, Network]
+[Davis Answer Phones]
+[Ericson Answer Phones]
+[Fitzgerald Answer Phones, Network]
+[Gutierrez Answer Phones, Network]
+[Hughes Answer Phones]
+[Jones Answer Phones, Computer Repair, Network]
+[Kelly Computer Repair, Network]
+[Liu Answer Phones, Network]
+[Martinez Computer Repair, Network]
+[Patel Answer Phones, Computer Repair, Network]
+[Qureshi Answer Phones, Computer Repair]
+[Rodriguez Answer Phones]
+[Singh Computer Repair, Network]
+[Tortorella Network]
+[Vieira Computer Repair]
+[Young Computer Repair]
+[Zimmerman Answer Phones, Computer Repair, Network]
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
+Valid Schedule.
